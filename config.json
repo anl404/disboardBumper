@@ -1,0 +1,5 @@
+{
+  "token": "YOUR_DISCORD_TOKEN",
+  "channelIds": ["CHANNEL_ID_1", "CHANNEL_ID_2", "CHANNEL_ID_3"],
+  "botId": "302050872383242240"
+} 
